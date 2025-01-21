@@ -1,4 +1,4 @@
-# Grafos 1 Leet Code Exercícios
+# Greedy Leet Code Exercícios
 
 **Número da Lista**: Sem Número<br>
 **Conteúdo da Disciplina**: Greedy
@@ -50,7 +50,7 @@ Escolha uma questão que deseja rodar ou testar no [LeetCode](https://leetcode.c
 ```
 
 ## Link dos vídeos
-[PA - Grafos 1](https://youtu.be/T9vPYCrH5pQ)
+[Greedy]()
 
 
 
