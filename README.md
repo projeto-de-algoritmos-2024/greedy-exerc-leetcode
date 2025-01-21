@@ -50,7 +50,7 @@ Escolha uma questão que deseja rodar ou testar no [LeetCode](https://leetcode.c
 ```
 
 ## Link dos vídeos
-[Greedy]()
+[Greedy](https://youtu.be/C9v8ElB4i_s)
 
 
 
