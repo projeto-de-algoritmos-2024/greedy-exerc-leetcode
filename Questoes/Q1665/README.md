@@ -39,7 +39,7 @@ Saída obtida:
 
 ![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/greedy-exerc-leetcode/blob/main/Questoes/Q1665/assets/OutputTeste.png "SaidasObtidas")
 
-Para o desenvolvimento do código da questão em questão, foi utilizado um algoritmo greedy, especificamente um baseado no estudado, Scheduling to Minimize Lateness, ordenando os dados pela ordem crescente de tempo e utilizando um max heap para controlar o fluxo de inserção dos cursos.
+Para o desenvolvimento do código da questão em questão, foi utilizado um algoritmo greedy, a diferença está em como é ordenado e priorizado a execução de tarefas neste algoritmo, priorizando as tarefas que requer mais esforço para ser realizado, além de também garantir custo restante para realizar as outros posteriormente.
 <br>
 
 ![Submissao](https://github.com/projeto-de-algoritmos-2024/greedy-exerc-leetcode/blob/main/Questoes/Q1665/assets/Aceito.png "Exercicio Submetido")
