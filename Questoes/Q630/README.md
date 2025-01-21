@@ -9,10 +9,12 @@ Return the maximum number of courses that you can take.
 
 ### Exemplo 1
 >**Input:** courses = [[1,2]]
+
 >**Output:** 1
 
 ### Exemplo 2
 >**Input:** courses = [[3,2],[4,3]]
+
 >**Output:** 0
 
 Entradas e saídas obtidas:
@@ -20,7 +22,7 @@ Entradas e saídas obtidas:
 Codigo de teste:
 <br>
 
-![TestesRodados](https://github.com/projeto-de-algoritmos-2024/greedy-exerc-leetcode/main/blob/Questoes/Q630/assets/CodigoTeste.png "TestesRodados")
+![CodigoTeste](https://github.com/projeto-de-algoritmos-2024/greedy-exerc-leetcode/blob/main/Questoes/Q630/assets/CodigoTeste.png "CodigoTeste")
 
 Saída obtida:
 <br>
